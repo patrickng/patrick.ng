@@ -1,0 +1,237 @@
+{
+    "name": "Patrick Ng",
+    "meta": {
+        "format": "FRESH@0.6.0",
+        "version": "1.0.0"
+    },
+    "info": {
+        "label": "VP, Engineering",
+        "brief": "VP of Engineering at SportsRecruits. Experienced in software engineering team management, full stack web development, product engineering, cloud architecture and infrastructure, and devops. Open to consulting requests as availability allows."
+    },
+    "contact": {
+        "website": "http://patrick.ng",
+        "email": "patrick@pixel8.me",
+        "phone": "1 (347) 286-1515"
+    },
+    "social": [{
+        "label": "Github",
+        "network": "GitHub",
+        "user": "patrickng",
+        "url": "https://github.com/patrickng"
+    }, {
+        "label": "Twitter",
+        "network": "Twitter",
+        "user": "patrickkng",
+        "url": "https://twitter.com/patrickkng"
+    }, {
+        "label": "LinkedIn",
+        "network": "LinkedIn",
+        "user": "patrickkng",
+        "url": "http://linkedin.com/in/patrickkng"
+    }],
+    "employment": {
+        "summary": "15+ years of development experience.",
+        "history": [{
+            "employer": "SportsRecruits",
+            "url": "https://sportsrecruits.com",
+            "position": "VP of Engineering",
+            "summary": "Empowering a team of talented software engineers to build software to help student-athletes pursue their dreams.",
+            "start": "2018-01-06",
+            "keywords": ["Devops", "Cloud Infrastructure", "Automated Pipelines", "Deployments", "Product Engineering", "JIRA", "Amazon Web Services", "Team Management", "Jenkins"],
+            "highlights": [
+                "Oversee several product and feature launches and deployments.", 
+                "Increased efficiency between software engineering and QA teams by setting up pipeline with Jenkins to automate build and deployments.", 
+                "Developed personzlized growth plans for developers based on their interests and company objectives."
+            ]
+        }, {
+            "employer": "SportsRecruits",
+            "url": "http://sportsrecruits.com",
+            "position": "Senior Software Engineer",
+            "summary": "Lead the efforts to rebuild several key product features including a messaging system, activity feed, college and majors search, with modern technologies.",
+            "start": "2015-04-06",
+            "end": "2018-01-05",
+            "keywords": ["JavaScript", "node.js", "Ember.js", "Vue.js", "React", "PHP", "Laravel", "API", "Redis"],
+            "highlights": [
+                "Built EventBeacon application with React, node.js, and Redis to allow college coaches to look up players and take notes on the field at events on their mobile phones.", 
+                "Built messaging, college search, and activity feed applications using Ember.js and PHP Laravel as an SPA and API."
+            ]
+        }, {
+            "employer": "E*TRADE Financial",
+            "url": "http://etrade.com",
+            "position": "Prototype Developer",
+            "summary": "As one of the first members of the new Prototype team, I had the opportunity to implement a new workflow and base infrastructure for the team. The goal was to lay the groundwork that allows us to rapidly create prototypes for the purpose of user testing and proof of concept. For every prototype our team is tasked with, I evaluate and propose the tech stack to use, usually centering around JavaScript based frameworks and libraries. As part of the prototype launch process for testing, I created and maintain staging servers to power these applications. A notable project I worked on was the trading and portfolio prototype built with the MEAN stack.",
+            "start": "2013-11-02",
+            "end": "2015-03-31",
+            "keywords": ["JavaScript", "node.js", "AngularJS", "MEAN Stack", "Responsive Design", "OOCSS", "d3.js"],
+            "highlights": [
+                "Integrated front-end workflows for a new team",
+                "Used static site generators to populate and build templates",
+                "Reduced development time by streamlining process with build scripts",
+                "Extensively used preprocessors for OOCSS ",
+                "Created reusable mock API",
+                "Maintained and constructed responsive prototypes with a variety of JS frameworks",
+                "Wrote and maintained a collection of modules for consistent, organized components",
+                "Implemented CSS regression testing",
+                "Built widgets in AngularJS and generated results with d3.js charting library",
+                "Fixed time sensitive bugs in production widgets by using TDD",
+                "Set up staging server using Ubuntu and nginx to support and proxy to static sites, PHP, node.js, Ruby and Python web applications",
+                "Implemented application processes monitoring",
+                "Automated deployment process with deploy scripts",
+                "Redesigned and built the initial prototype of the new trading and portfolio platform"
+            ]
+        }, {
+            "employer": "ExpandTheRoom",
+            "url": "https://expandtheroom.com",
+            "position": "Interactive Developer",
+            "summary": "I was brought on full time at Expand The Room after my successful trial freelance work and this gave me the chance to explore the world of front-end MVC frameworks. Aside from building microsites and the occasional bug fix, I built a demo weather app using KnockoutJS and later rebuilt it in AngularJS and dived into the MEAN stack to evaluate how it could be used for future client projects.",
+            "start": "2013-08-01",
+            "end": "2015-11-01",
+            "keywords": ["JavaScript", "node.js", "AngularJS", "MEAN Stack", "KnockoutJS"],
+            "highlights": [
+                "Built proof of concept web applications with KnockoutJS, AngularJS, & MEAN stack",
+                "Maintain and apply bug fixes to mobile applications using Titanium Studio",
+                "Created microsites with HTML5 and CSS3 animations"
+            ]
+        }, {
+            "employer": "Launch School",
+            "url": "https://launchschool.com",
+            "position": "Teaching Assistant",
+            "summary": "After taking relevant courses with Launch School (previously Tealeaf Academy), I was invited to work with them as their first teaching assistant. I conducted code reviews with students on their homework, organized and monitored their study sessions, and mentored them throughout the courses.",
+            "start": "2013-02-01",
+            "end": "2013-11-01",
+            "keywords": ["Ruby on Rails", "RSpec", "background processes", "code review", "teaching"],
+            "highlights": [
+                "Assist primary instructor in teaching Introduction to Ruby and Web Development, Rapid Prototyping with Ruby on Rails and Building Production Quality Applications courses.",
+                "Help students with questions regarding code and homework assignments",
+                "Debugging problems involving RSpec tests, background processes, email sending, code refactoring, and payment processing"
+            ]
+        }, {
+            "employer": "pixel8.me",
+            "url": "http://pixel8.me",
+            "position": "Freelance Developer",
+            "summary": "Using the skills I acquired over the years, I wanted to experience going solo. I worked on projects the ranged across all platforms, from PHP based CMS and blog sites to custom applications using Ruby on Rails. I learned front-end work flows and back-end development to round out my knowledge required to successfully complete these projects. A few projects of note were a gaming site/community, a yoga studio site, and a responsive portfolio site.",
+            "start": "2012-10-01",
+            "end": "2013-11-01",
+            "keywords": ["Freelance", "Ruby on Rails", "Grunt", "Gulp", "SEO"],
+            "highlights": [
+                "Ruby on Rails, jQuery, HTML5, CSS3 for client projects"
+            ]
+        }, {
+            "employer": "ExpandTheRoom",
+            "url": "https://expandtheroom.com",
+            "position": "Freelance Developer",
+            "summary": "In order to try out new technologies, I took a freelance position with ExpandTheRoom. I helped worked on a few mobile apps using Appcelerator Titanium Studio. The first mobile app was for a promotional event by Jim Beam where you could take a photo of someone with an iPad and generate a 'devilized' photo. The second mobile app was for US Weekly to consume JSON data and render the associated photos, videos, and content in the proper view and screens.",
+            "start": "2012-12-01",
+            "end": "2013-02-01",
+            "keywords": ["Titanium Studio", "mobile apps"],
+            "highlights": [
+                "Developing mobile apps with Appcelerator Titanium Studio"
+            ]
+        }, {
+            "employer": "WONDER | visualizing brands",
+            "url": "http://findwonder.com",
+            "position": "Front End Web Developer",
+            "summary": "In order to try out new technologies, I took a freelance position with ExpandTheRoom. I helped worked on a few mobile apps using Appcelerator Titanium Studio. The first mobile app was for a promotional event by Jim Beam where you could take a photo of someone with an iPad and generate a 'devilized' photo. The second mobile app was for US Weekly to consume JSON data and render the associated photos, videos, and content in the proper view and screens.",
+            "start": "2012-03-01",
+            "end": "2013-09-01",
+            "keywords": ["Responsive design", "JavaScript", "Python", "Canvas", "mobile performance"],
+            "highlights": [
+                "Built sites for different brands using Twitter Bootstrap, HTML5 Boilerplate, CSS3, and jQuery",
+                "Ensured that sites gracefully degraded to usable state and supported sites in Internet Explorer 7+, Opera, Chrome, Safari and Firefox",
+                "Prototyped layouts with grid systems from wireframes",
+                "Integrated SASS into project workflow",
+                "Used CSS3 media queries to build responsive websites and integrated custom jQuery code for different screen resolutions",
+                "Customized and implemented a web based HTML5 Canvas drawing tool with Javascript",
+                "Used git to track updates and merge changes for use on development, staging and production servers"
+            ]
+        }, {
+            "employer": "Educational Networks",
+            "url": "http://educationalnetworks.net",
+            "position": "Senior Front End Developer",
+            "summary": "As the senior front end developer on this team, I helped implement the latest best practices in web development by evolving their web sites from table-based layouts to semantically correct, section 508 compliant layouts. I also had the opportunity to create concepts for their proprietary CMS homepage modules and contributed to the design and development of their photo slider feature. This position allowed me to play with a lot of experimental technologies which allowed me to make informed decisions on how to implement an experience that degrades with browser support.",
+            "start": "2006-01-01",
+            "end": "2012-02-01",
+            "keywords": ["Responsive Design", "jQuery", "Section 508", "Accessibility", "SEO", "Progressive Enhancement", "Graceful Degradation", "Adobe Photoshop", "Adobe Illustrator", "Cross Browser Support", "ADA", "HTML5", "CSS3"],
+            "highlights": [
+                "Helped customers over the phone regarding help with daily maintenance of websites",
+                "Converted Adobe PSD files into standards-based HTML5/CSS3/jQuery",
+                "Built sites with emphasis on Section 508 web accessibility and ADA standards",
+                "Sliced well over 600 websites and integrated with SchoolSitePro CMS software",
+                "Expert in progressive enhancement (graceful degradation) of websites to support the latest HTML5/CSS3 features",
+                "Made design changes to PSDs and produced graphical mockups",
+                "Used Adobe Illustrator and Photoshop to design critical elements and sections using common practices of typography, grid, and color theory",
+                "Handled all requests and tickets pertaining to code conflicts and subtle cross-browser nuances including Internet Explorer 6+, Firefox, Chrome, Opera & Safari",
+                "Redesigned outdated modules into table-less format with pure CSS"
+            ]
+        }]
+    },
+    "education": {
+        "summary": "",
+        "level": "degree",
+        "degree": "BS Finance",
+        "history": [{
+            "institution": "CUNY Brooklyn College",
+            "title": "BS Finance",
+            "url": "http://brooklyn.cuny.edu",
+            "start": "2006-08",
+            "end": "2010-12",
+            "grade": "3.85",
+            "summary": "Graduate of Brooklyn College, Fall of 2010."
+        }]
+    },
+    "service": {
+        "summary": "",
+        "history": [{
+            "flavor": "volunteer",
+            "position": "Volunteer Ruby on Rails Dev Manager/Mentor",
+            "organization": "Learn To Be Foundation",
+            "url": "http://learntobe.org",
+            "start": "2006-06",
+            "summary": "Helping to develop software that removes high friction pain points and improve organizational processes which in turn allows tutors to be more affective at their interactions with students.",
+            "highlights": [
+                "Manage and mentor a group of developer interns on several projects."
+            ]
+        }]
+    },
+    "skills": {
+        "sets": [{
+            "name": "Web Development",
+            "level": "expert",
+            "skills": ["W/M/LAMP", "JavaScript", "HTML 5", "Angular.js", "Ember.js", "React", "Vue.js", "node.js", "jQuery", "Sass", "LESS", "Ruby on Rails", "SQL Databases", "NoSQL Databases", "PHP", "Laravel", "CSS3"]
+        }, {
+            "name": "Systems Architecture/Cloud Infrastructure",
+            "level": "advanced",
+            "skills": ["Amazon Web Services", "Load Balancing", "Automated pipelines and deployments", "Scaling Performance"]
+        }, {
+            "name": "Product Engineering",
+            "level": "advanced",
+            "skills": ["JIRA", "QA Testing", "Agile", "Scrum"]
+        }],
+        "list": []
+    },
+    "languages": [{
+        "language": "English",
+        "level": "native"
+    }, {
+        "language": "Cantonese",
+        "level": "conversational"
+    }, {
+        "language": "Ruby",
+        "level": "expert"
+    }, {
+        "language": "JavaScript",
+        "level": "expert"
+    }, {
+        "language": "PHP",
+        "level": "expert"
+    }],
+    "interests": [{
+        "name": "Skiing",
+        "summary": "",
+        "keywords": []
+    }, {
+        "name": "Biking",
+        "summary": "",
+        "keywords": []
+    }]
+}
