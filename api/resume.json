@@ -179,6 +179,53 @@
             "summary": "Graduate of Brooklyn College, Fall of 2010."
         }]
     },
+    "references": [
+        {
+            "name": "Arnaud Jammaers",
+            "contact": [
+                {
+                    "label": "LinkedIn",
+                    "value": "https://www.linkedin.com/in/arnaud-jammaers-74a547"
+                }
+            ]
+        },
+        {
+            "name": "Mark Mitchell",
+            "contact": [
+                {
+                    "label": "LinkedIn",
+                    "value": "https://www.linkedin.com/in/markreidmitchell"
+                }
+            ]
+        },
+        {
+            "name": "John Scott Atlakson",
+            "contact": [
+                {
+                    "label": "LinkedIn",
+                    "value": "https://www.linkedin.com/in/john-scott-atlakson-7067b116"
+                }
+            ]
+        },
+        {
+            "name": "Kevin Wang",
+            "contact": [
+                {
+                    "label": "LinkedIn",
+                    "value": "https://www.linkedin.com/in/kevin-wang-a740001"
+                }
+            ]
+        },
+        {
+            "name": "Catalin Stefanovici",
+            "contact": [
+                {
+                    "label": "LinkedIn",
+                    "value": "https://www.linkedin.com/in/cstefanovici"
+                }
+            ]
+        }
+    ],
     "service": {
         "summary": "",
         "history": [{
