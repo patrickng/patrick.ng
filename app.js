@@ -1,3 +1,4 @@
+require('dotenv').load();
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -26,7 +27,8 @@ app.use('/resume', resumeRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
-  next(createError(404));
+  // next(createError(404, "Not Found"));
+    res.status(404).render('404_error_template', { title: '404 Not Found', stack: createError(404) });
 });
 
 // error handler

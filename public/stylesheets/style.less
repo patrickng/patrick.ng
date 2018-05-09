@@ -8,18 +8,31 @@
   color: #fff;
 }
 
+html, body {
+    height: 100%;
+}
+
 body {
-    padding: 50px;
     font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
     background: @background-color;
     color: @text-color;
-    border-top: 5px solid @text-color;
+    min-height: 100%;
 }
 
 .wrapper {
+    width: 100%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    line-height: 1.6;
+    min-height: calc(100% - 5px);
+    border-top: 5px solid @text-color;
+}
+
+.content-wrapper {
     max-width: 900px;
     margin: 0 auto;
-    line-height: 1.6;
+    padding: 0 0 50px 0;
 }
 
 a {
@@ -45,4 +58,12 @@ li {
     }
     font-size: 1.2em;
     font-family: 'Lora', serif;
+}
+
+.four-oh-four {
+    text-align: center;
+    h1 {
+        font: 14em 'Fira Sans', sans-serif;
+        margin: 0;
+    }
 }
