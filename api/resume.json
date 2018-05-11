@@ -39,9 +39,10 @@
             "start": "2018-01-06",
             "keywords": ["Devops", "Cloud Infrastructure", "Automated Pipelines", "Deployments", "Product Engineering", "JIRA", "Amazon Web Services", "Team Management", "Jenkins"],
             "highlights": [
-                "Oversee several product and feature launches and deployments.", 
-                "Increased efficiency between software engineering and QA teams by setting up pipeline with Jenkins to automate build and deployments.", 
-                "Developed personzlized growth plans for developers based on their interests and company objectives."
+                "Empowering and providing mentorship to a team of talented full stack, back end, and front end engineers",
+                "Increase team output, efficiency, and accuracy on projects and product delivery",
+                "Manage and improve complete software development life cycle",
+                "Evaluate new technologies and its cost effectiveness at various levels of the tech stack"
             ]
         }, {
             "employer": "SportsRecruits",
@@ -52,8 +53,13 @@
             "end": "2018-01-05",
             "keywords": ["JavaScript", "node.js", "Ember.js", "Vue.js", "React", "PHP", "Laravel", "API", "Redis"],
             "highlights": [
-                "Built EventBeacon application with React, node.js, and Redis to allow college coaches to look up players and take notes on the field at events on their mobile phones.", 
-                "Built messaging, college search, and activity feed applications using Ember.js and PHP Laravel as an SPA and API."
+                "Replaced Codekit workflow with a Gulp.js & Webpack build process",
+                "Built the new 'outside the gate' marketing experience featuring HTML5 video and CSS3 animations",
+                "Built new mobile experience for the Event Beacon product with React and node.js to allow college coaches to look up players and take notes on the field at events on their mobile phones",
+                "Built new mobile responsive applications for the messaging system, activity feed, and college search with Ember.js utilizing a micro services architecture",
+                "Built new event registration flow in the order process with an accompanying CMS to manage applicants and wait list",
+                "Built an internal campaign management system to track tutorial views and usage of new features",
+                "Set up automated pipeline deployment system by connecting our JIRA instance and workflow with Jenkins"
             ]
         }, {
             "employer": "E*TRADE Financial",
