@@ -185,53 +185,6 @@
             "summary": "Graduate of Brooklyn College, Fall of 2010."
         }]
     },
-    "references": [
-        {
-            "name": "Arnaud Jammaers",
-            "contact": [
-                {
-                    "label": "LinkedIn",
-                    "value": "https://www.linkedin.com/in/arnaud-jammaers-74a547"
-                }
-            ]
-        },
-        {
-            "name": "Mark Mitchell",
-            "contact": [
-                {
-                    "label": "LinkedIn",
-                    "value": "https://www.linkedin.com/in/markreidmitchell"
-                }
-            ]
-        },
-        {
-            "name": "John Scott Atlakson",
-            "contact": [
-                {
-                    "label": "LinkedIn",
-                    "value": "https://www.linkedin.com/in/john-scott-atlakson-7067b116"
-                }
-            ]
-        },
-        {
-            "name": "Kevin Wang",
-            "contact": [
-                {
-                    "label": "LinkedIn",
-                    "value": "https://www.linkedin.com/in/kevin-wang-a740001"
-                }
-            ]
-        },
-        {
-            "name": "Catalin Stefanovici",
-            "contact": [
-                {
-                    "label": "LinkedIn",
-                    "value": "https://www.linkedin.com/in/cstefanovici"
-                }
-            ]
-        }
-    ],
     "service": {
         "summary": "",
         "history": [{
@@ -239,7 +192,8 @@
             "position": "Volunteer Ruby on Rails Dev Manager/Mentor",
             "organization": "Learn To Be Foundation",
             "url": "http://learntobe.org",
-            "start": "2006-06",
+            "start": "2015-04",
+            "end": "2015-10",
             "summary": "Helping to develop software that removes high friction pain points and improve organizational processes which in turn allows tutors to be more affective at their interactions with students.",
             "highlights": [
                 "Manage and mentor a group of developer interns on several projects."

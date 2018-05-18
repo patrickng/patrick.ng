@@ -6,3 +6,7 @@ services:
       - ./:/usr/src/png-portfolio
     ports:
       - "3000:3000"
+  nginx:
+    build: '../containers/nginx'
+    depends_on:
+      - web
