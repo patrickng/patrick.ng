@@ -10,7 +10,13 @@
 
     <link rel="stylesheet" href="/stylesheets/normalize.css">
     <link href="/stylesheets/style.css" rel="stylesheet"/>
-    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400|Lora|Open+Sans:400,600" rel="stylesheet">
+    <!-- GFont Optimization: https://csswizardry.com/2020/05/the-fastest-google-fonts/ -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Fira+Sans:400|Lora|Open+Sans:400,600&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans:400|Lora|Open+Sans:400,600&display=swap" media="print" onload="this.media='all'" />
+    <noscript>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Sans:400|Lora|Open+Sans:400,600&display=swap" />
+    </noscript>
     <script>
         window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
         ga('create', 'UA-118809929-1', { 'allowAnchor': true }); ga('send', 'pageview', { 'page': location.pathname + location.search + location.hash })

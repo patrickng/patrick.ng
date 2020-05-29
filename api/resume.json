@@ -5,8 +5,8 @@
         "version": "1.0.0"
     },
     "info": {
-        "label": "VP, Engineering",
-        "brief": "VP of Engineering at SportsRecruits. Experienced in software engineering team management, full stack web development, product engineering, cloud architecture and infrastructure, and devops. Open to consulting requests as availability allows."
+        "label": "Engineering Manager",
+        "brief": "Engineering Manager at Kustomer. Experienced in software engineering team management, full stack web development, product engineering, cloud architecture and infrastructure, and devops. Open to consulting requests as availability allows."
     },
     "contact": {
         "website": "http://patrick.ng",
@@ -14,6 +14,11 @@
         "phone": "1 (347) 286-1515"
     },
     "social": [{
+        "label": "Keybase",
+        "network": "Keybase",
+        "user": "patrickng",
+        "url": "https://keybase.io/patrickng"
+    }, {
         "label": "Github",
         "network": "GitHub",
         "user": "patrickng",
@@ -31,12 +36,18 @@
     }],
     "employment": {
         "summary": "15+ years of development experience.",
-        "history": [{
+        "history": [ {
+            "employer": "Kustomer",
+            "url": "https://kustomer.com",
+            "summary": "Engineering Manager on the Trust team working on infrastructure involving scalability and reliability",
+            "start": "2020-06-01"
+        }, {
             "employer": "SportsRecruits",
             "url": "https://sportsrecruits.com",
             "position": "VP of Engineering",
             "summary": "Empowering a team of talented software engineers to build software to help student-athletes pursue their dreams.",
             "start": "2018-01-06",
+            "end": "2020-05-22",
             "keywords": ["Devops", "Cloud Infrastructure", "Automated Pipelines", "Deployments", "Product Engineering", "JIRA", "Amazon Web Services", "Team Management", "Jenkins"],
             "highlights": [
                 "Empowering and providing mentorship to a team of talented full stack, back end, and front end engineers",
@@ -203,15 +214,12 @@
     "skills": {
         "sets": [{
             "name": "Web Development",
-            "level": "expert",
-            "skills": ["W/M/LAMP", "JavaScript", "HTML 5", "Angular.js", "Ember.js", "React", "Vue.js", "node.js", "jQuery", "Sass", "LESS", "Ruby on Rails", "SQL Databases", "NoSQL Databases", "PHP", "Laravel", "CSS3"]
+            "skills": ["W/M/LAMP", "JavaScript", "Angular.js", "Ember.js", "React", "Vue.js", "node.js", "Ruby on Rails", "SQL Databases", "NoSQL Databases", "PHP", "Laravel", "CSS3", "Python"]
         }, {
             "name": "Systems Architecture/Cloud Infrastructure",
-            "level": "advanced",
-            "skills": ["Amazon Web Services", "Load Balancing", "Automated pipelines and deployments", "Scaling Performance"]
+            "skills": ["Amazon Web Services", "Load Balancing", "Automated pipelines and deployments", "Scaling Performance", "Terraform"]
         }, {
             "name": "Product Engineering",
-            "level": "advanced",
             "skills": ["JIRA", "QA Testing", "Agile", "Scrum"]
         }],
         "list": []

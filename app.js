@@ -7,7 +7,6 @@ var lessMiddleware = require('less-middleware');
 var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
-var aboutRouter = require('./routes/about');
 var resumeRouter = require('./routes/resume');
 
 var app = express();
@@ -23,7 +22,6 @@ app.use(lessMiddleware(path.join(__dirname, 'public')));
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
-app.use('/about', aboutRouter);
 app.use('/resume', resumeRouter);
 
 // catch 404 and forward to error handler
